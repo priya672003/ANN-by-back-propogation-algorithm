@@ -1,4 +1,4 @@
-### EX NO : 
+### EX NO : 6
 ### DATE  :
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
 ## Aim:
